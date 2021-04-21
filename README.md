@@ -1,7 +1,8 @@
 # asterisk-chan_dongle-compiled-module for raspberry pi 4 debian buster
 
-#
-source 
+## sources
+
+chan_dongle.so = chan_dongle.so_haha8x
 
 chan_dongle.so_1.1_bg111 source: https://github.com/bg111/asterisk-chan-dongle
 
