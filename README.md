@@ -33,3 +33,8 @@ cd asterisk-chan-dongle/
 ./configure --with-astversion=16.2.1
 
 make
+
+## troubleshooting
+
+https://github.com/wdoekes/asterisk-chan-dongle/issues/135
+
