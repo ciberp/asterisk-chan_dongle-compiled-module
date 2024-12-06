@@ -1,4 +1,10 @@
-# My setup
+# Current setup
+
+I am using RPI4 with debian bullseye 11, asterisk 16.28 64bit (asterisk_16.28.0~dfsg-0+deb11u3_arm64.deb), Huawei E303S (E303Update_21.158.13.00.864_e303s-2 Huawei E303 Firmware 21.158.13.00.864 with voice support (Universal), chan_dongle.so 64bit (chan_dongle.so_wdoekes_arm64)
+
+Works USSD, SMS, Calls incoming/outgoing, but I can' t get DTMF working...
+
+# old setup
 
 I am using RPI4 with debian Buster 10, asterisk (asterisk_16.2.1~dfsg-1+deb10u2_armhf.deb), Huawei E303S (E303Update_21.158.13.00.864_e303s-2 Huawei E303 Firmware 21.158.13.00.864 with voice support (Universal), chan_dongle.so (chan_dongle.so_wdoekes)
 
